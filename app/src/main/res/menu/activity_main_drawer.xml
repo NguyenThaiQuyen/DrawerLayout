@@ -25,23 +25,23 @@
             <group android:checkableBehavior="single">
                 <item
                     android:id="@+id/nav_k14"
-                    android:icon="@drawable/ic_menu_gallery"
+                    android:icon="@drawable/icon_k14"
                     android:title="Kenh14" />
                 <item
                     android:id="@+id/nav_bongda"
-                    android:icon="@drawable/bongdasm"
+                    android:icon="@drawable/bongda"
                     android:title="BongdaPlus" />
                 <item
-                    android:id="@+id/nav_vietnamnet"
-                    android:icon="@drawable/ic_menu_send"
-                    android:title="Vietnamnet" />
+                    android:id="@+id/nav_dantri"
+                    android:icon="@drawable/dantri"
+                    android:title="Dan tri" />
                 <item
                     android:id="@+id/nav_zing"
-                    android:icon="@drawable/zingsmall"
+                    android:icon="@drawable/zing"
                     android:title="Zing" />
                 <item
                     android:id="@+id/nav_yan"
-                    android:icon="@drawable/yansmall"
+                    android:icon="@drawable/yannew"
                     android:title="Yan.vn" />
             </group>
         </menu>
